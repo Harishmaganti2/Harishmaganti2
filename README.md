@@ -4,7 +4,7 @@
 
 I automate cloud migrations, CI/CD, and infrastructure-as-code on **AWS and Azure** — and I build and solo-operate a live AI product on top of that same discipline. My best work sits at the intersection: production cloud/DevOps depth plus hands-on LLM and applied-AI delivery.
 
-- 🔭 Building **[Mainaka](https://mainaka.com)** — a live AI platform (12+ AI tools, multi-model LLM pipeline, 40K+ community), built and operated solo
+- 🔭 Building **[Mainaka](https://mainaka.com)** — a live AI platform (12+ AI tools, multi-model LLM pipeline, 40K+ combined reach across channels), built and operated solo
 - 🎯 Open to **AI Solutions Engineer, Applied AI, Cloud, and DevOps** roles
 - 📜 **AWS DevOps Engineer – Professional** · **AWS Solutions Architect – Associate**
 - 📍 Glendale, AZ (Remote) · 📫 harish@harishmaganti.com
@@ -16,7 +16,7 @@ I automate cloud migrations, CI/CD, and infrastructure-as-code on **AWS and Azur
 
 ### [Mainaka](https://mainaka.com) — Live AI Product · *Founder & Sole Engineer*
 A production AI platform that helps students prepare for high-stakes F1 visa interviews, built and operated end-to-end.
-- **Multi-model LLM pipeline** — a fast model (Groq / Llama 3.3 70B) on the latency-critical user path, a stronger model (Claude) for offline dataset enrichment
+- **Multi-model LLM pipeline** — a fast model on the latency-critical user path, a stronger model for offline dataset enrichment
 - Proprietary dataset of 6,910 categorized records with FTS5 search + an automated outcome-capture pipeline
 - ~20K lines across **React 18 · Node/Express · Python/FastAPI**, deployed on **DigitalOcean · nginx · Cloudflare · PM2** with **zero-downtime deploys and automated rollback**
 - *Source is private (live product + proprietary dataset). Architecture happy to discuss in an interview.*
