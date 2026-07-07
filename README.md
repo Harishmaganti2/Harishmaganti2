@@ -21,10 +21,11 @@ A production AI platform that helps students prepare for high-stakes F1 visa int
 - ~20K lines across **React 18 · Node/Express · Python/FastAPI**, deployed on **DigitalOcean · nginx · Cloudflare · PM2** with **zero-downtime deploys and automated rollback**
 - *Source is private (live product + proprietary dataset). Architecture happy to discuss in an interview.*
 
-### [Elastic Risk Controller](https://github.com/Harishmaganti2/elastic-risk-controller) — Real-Time Streaming Pipeline · *AWS*
-A serverless, event-driven pipeline that scores high-velocity event streams with sub-second latency.
-- **Kinesis → Lambda (Python) → DynamoDB**, with **SQS/SNS** for decoupled alerting and **CloudWatch** for full observability
-- Autoscaling and fault-tolerant · architecture-only public repo (scoring logic intentionally omitted)
+### Elastic Safety-First Cloud Controller — Research · *AWS*
+Safety-constrained elastic GPU orchestration for cloud-native traffic risk monitoring — activates high-performance inference only when interpretable risk signals justify it, cutting unnecessary compute while preserving safety coverage.
+- Calibrated on Arizona FARS fatal-crash data (2012–2016), temporally validated on 2017–2023 with **93–98% safety coverage** across seven unseen years
+- Cloud-native design: **Kinesis → Lambda → DynamoDB → SQS → GPU worker (EC2) → SNS**, with passive/active modes driven by a risk threshold
+- *Repository private during IEEE double-blind review — details available on request.*
 
 ---
 
