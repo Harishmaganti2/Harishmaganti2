@@ -1,52 +1,149 @@
 # Hi, I'm Harish Maganti 👋
 
-**Cloud & DevOps Engineer** who also **builds and ships production AI.**
+## AI Product Engineer | Full-Stack AI | Applied AI | AWS
 
-I automate cloud migrations, CI/CD, and infrastructure-as-code on **AWS and Azure** — and I build and solo-operate a live AI product on top of that same discipline. My best work sits at the intersection: production cloud/DevOps depth plus hands-on LLM and applied-AI delivery.
+I build and ship **production AI products** powered by LLMs, agentic workflows, and cloud-native infrastructure.
 
-- 🔭 Building **[Mainaka](https://mainaka.com)** — a live AI platform (12+ AI tools, multi-model LLM pipeline, 40K+ combined reach across channels), built and operated solo
-- 🎯 Open to **AI Solutions Engineer, Applied AI, Cloud, and DevOps** roles
-- 📜 **AWS DevOps Engineer – Professional** · **AWS Solutions Architect – Associate**
-- 📍 Glendale, AZ (Remote) · 📫 harish@harishmaganti.com
-- 🌐 Portfolio: **[harishmaganti.com](https://harishmaganti.com)**
+Over the past 5+ years, I've built software across full-stack engineering, AWS cloud, and production AI systems. I enjoy taking AI products from idea to deployment—designing agent workflows, RAG pipelines, evaluation systems, scalable APIs, and reliable cloud infrastructure.
 
----
-
-## 🚀 Featured work
-
-### [Mainaka](https://mainaka.com) — Live AI Product · *Founder & Sole Engineer*
-A production AI platform that helps students prepare for high-stakes F1 visa interviews, built and operated end-to-end.
-- **Multi-model LLM pipeline** — a fast model on the latency-critical user path, a stronger model for offline dataset enrichment
-- Proprietary dataset of 6,910 categorized records with FTS5 search + an automated outcome-capture pipeline
-- ~20K lines across **React 18 · Node/Express · Python/FastAPI**, deployed on **DigitalOcean · nginx · Cloudflare · PM2** with **zero-downtime deploys and automated rollback**
-- *Source is private (live product + proprietary dataset). Architecture happy to discuss in an interview.*
-
-### Elastic Safety-First Cloud Controller — Research · *AWS*
-Safety-constrained elastic GPU orchestration for cloud-native traffic risk monitoring — activates high-performance inference only when interpretable risk signals justify it, cutting unnecessary compute while preserving safety coverage.
-- Calibrated on Arizona FARS fatal-crash data (2012–2016), temporally validated on 2017–2023 with **93–98% safety coverage** across seven unseen years
-- Cloud-native design: **Kinesis → Lambda → DynamoDB → SQS → GPU worker (EC2) → SNS**, with passive/active modes driven by a risk threshold
-- *Repository private during IEEE double-blind review — details available on request.*
+- 🚀 Founder & Sole Engineer of **[Mainaka](https://mainaka.com)** — an AI-powered interview platform serving **36,000+ users**
+- 🤖 Built production AI systems using **GPT-4, Claude, RAG, Prompt Engineering, Multi-Step Agents, Structured Outputs, Streaming Responses, and AI Evaluation**
+- ☁️ AWS Certified DevOps Engineer – Professional
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🎯 Open to **AI Product Engineer**, **Applied AI Engineer**, **AI Solutions Engineer**, **LLM Engineer**, **Full-Stack AI Engineer**, and **AI Platform Engineer** roles
+- 📍 Phoenix, Arizona (Remote)
+- 📫 harishmaganti.m@gmail.com
+- 🌐 Portfolio: **https://harishmaganti.com**
 
 ---
 
-## 🛠️ Stack
+# 🚀 Featured Projects
 
-**Cloud** &nbsp; AWS (Lambda · Kinesis · DynamoDB · EKS · EC2 · VPC · Route 53 · CloudFormation · IAM · CloudWatch) · Azure (AKS · Functions · Cosmos DB · Azure DevOps · Sentinel · ARM/Bicep)
+## Mainaka — Production AI Platform
+**Founder & Sole Engineer**
 
-**DevOps & IaC** &nbsp; Terraform · Kubernetes · Docker · Jenkins · GitLab CI · Ansible · nginx · PM2
+An end-to-end AI platform helping students prepare for high-stakes U.S. F1 visa interviews using LLM-powered evaluation and personalized feedback.
 
-**AI / ML** &nbsp; LLM integration (Groq/Llama, Claude) · prompt orchestration · AWS SageMaker · Azure ML
+### Highlights
 
-**Languages & Data** &nbsp; Python · Node.js · Bash · PostgreSQL · SQLite/FTS5 · REST APIs
+- Built an AI platform serving **36,000+ users**
+- Designed multi-step AI agent workflows for interview generation, evaluation, and personalized recommendations
+- Built Retrieval-Augmented Generation (RAG) pipelines using proprietary visa interview knowledge
+- Developed hybrid AI risk-scoring combining historical outcomes, rule-based intelligence, and LLM reasoning
+- Designed manual evaluation workflows comparing GPT-4 and Claude with regression testing to improve response quality
+- Built complete production infrastructure using React, Next.js, Node.js, PostgreSQL, AWS, CI/CD, Cloudflare, and Nginx
+- Operate and maintain the complete production platform independently
 
-**Observability** &nbsp; CloudWatch · Prometheus · Grafana · ELK Stack
+**Tech Stack**
+
+Python • TypeScript • React • Next.js • Node.js • PostgreSQL • AWS • OpenAI • Claude • RAG • Prompt Engineering • AI Evaluation • REST APIs
 
 ---
 
-## 📫 Reach me
+## Elastic Risk Controller — AWS AI Infrastructure
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harishmaganti-1F4E79?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishmaganti)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-harish@harishmaganti.com-D6A54C?logo=gmail&logoColor=white)](mailto:harish@harishmaganti.com)
-&nbsp;
-[![Mainaka](https://img.shields.io/badge/Live%20Product-mainaka.com-5BD6A0?logo=vercel&logoColor=white)](https://mainaka.com)
+Designed a cloud-native event-driven architecture for intelligent GPU activation using AWS serverless technologies.
+
+### Highlights
+
+- Built Kinesis → Lambda → DynamoDB → SQS → EC2 GPU → SNS pipeline
+- Reduced GPU utilization by **29%**
+- Demonstrated scalable event-driven AI infrastructure
+- IEEE research paper currently under review
+
+**Tech Stack**
+
+AWS Lambda • Kinesis • DynamoDB • SQS • SNS • EC2 • CloudWatch • Python
+
+---
+
+# 🛠️ Tech Stack
+
+### AI Engineering
+
+- OpenAI GPT-4
+- Claude
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Multi-Step Agent Workflows
+- Structured Outputs
+- Streaming Responses
+- AI Evaluation
+- Prompt Regression Testing
+- Function Calling
+- Tool Calling
+- Embeddings
+
+### Languages
+
+- Python
+- TypeScript
+- JavaScript
+- Java
+- SQL
+
+### Frontend
+
+- React
+- Next.js
+- HTML
+- CSS
+
+### Backend
+
+- Node.js
+- Express
+- FastAPI
+- REST APIs
+- GraphQL
+
+### Cloud
+
+- AWS
+- Azure
+
+### DevOps
+
+- Docker
+- Kubernetes
+- CI/CD
+- GitHub Actions
+- CloudFormation
+- Nginx
+- PM2
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- DynamoDB
+- Redis
+
+### AI Infrastructure
+
+- AWS Lambda
+- API Gateway
+- S3
+- CloudWatch
+- Kinesis
+- SNS
+- SQS
+- Serverless Architecture
+
+---
+
+# 📜 Certifications
+
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Associate
+
+---
+
+# 📫 Let's Connect
+
+- 🌐 https://harishmaganti.com
+- 💼 https://linkedin.com/in/harishmaganti
+- 📧 harishmaganti.m@gmail.com
+
+Always interested in building production AI products, applied AI systems, and cloud-native software.
